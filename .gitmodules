@@ -1,9 +1,7 @@
 [submodule "hospital-management-frontend"]
-	path = hospital-management-frontend
-	url = https://github.com/katsisaac50/hospital-management-client.git
-[submodule "hospital-management-client"]
-	path = hospital-management-client
-	url = https://github.com/katsisaac50/hospital-management.git
-[submodule "hospital-management-server"]
-	path = hospital-management-server
-	url = https://github.com/katsisaac50/hospital-management.git
+    path = hospital-management-frontend
+    url = https://github.com/katsisaac50/hospital-management-client.git
+
+[submodule "hospital-management"]
+	path = hospital-management
+	url = https://github.com/katsisaac50/hospital-management-server.git
